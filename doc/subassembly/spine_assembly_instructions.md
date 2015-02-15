@@ -6,7 +6,7 @@ Photo
 - Assembly: 10 min
 
 ## Requirement:
-![Spine Assembly](../img/spine_assembly_instructions.jpeg)
+![Spine Assembly](../img/spine_assembly_instructions.jpg)
 
 **3D Printed parts**:
 - Spine
