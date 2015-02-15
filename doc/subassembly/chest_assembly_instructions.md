@@ -1,7 +1,5 @@
 # Chest assembly instructions
 
-Photo
-
 - Preparation: 10-15 min
 - Assembly: 30-45 min
 

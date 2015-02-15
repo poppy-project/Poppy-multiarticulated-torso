@@ -1,7 +1,5 @@
 # Spine assembly instructions
 
-Photo
-
 - Preparation: 5 min
 - Assembly: 10 min
 
