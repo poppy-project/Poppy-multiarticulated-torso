@@ -11,7 +11,7 @@ The following instructions will guide you in this assembling process:
 - **1.1- [Double MX64 assembly](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/double_MX64_assembly.md)**
 - **1.2- [Double MX28 assembly](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/double_MX28_assembly.md)**
 - **1.3- [Spine assembly](subassembly/spine_assembly_instructions.md)**
-- **1.4- [Chest assembly](/subassembly/chest_assembly_instructions.md)**
+- **1.4- [Chest assembly](subassembly/chest_assembly_instructions.md)**
 
 
 ## 2- Multi-articulated trunk assembly
