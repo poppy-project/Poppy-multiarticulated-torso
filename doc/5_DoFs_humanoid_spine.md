@@ -51,5 +51,8 @@ The following instructions will guide you in this assembling process:
 
 
 
-## Video instructions:
+## Assembly instructions:
+
+- **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 2**: Click on the image below to display the video:
 [![Chest Assembly](http://img.youtube.com/vi/LEHLdoBEr4Q/0.jpg)](http://youtu.be/LEHLdoBEr4Q)

@@ -28,6 +28,8 @@
 
 
 
-## Video instructions:
+## Assembly instructions:
 
+- **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 2**: Click on the image below to display the video:
 [![Spine Assembly video](http://img.youtube.com/vi/LXktU4MTITE/0.jpg)](http://youtu.be/LXktU4MTITE)
