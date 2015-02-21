@@ -2,7 +2,13 @@
 
 ![Trunk Assembled](img/trunk_assembled.jpg)
 
-## 1- Build Sub-assemblies
+## 1- Get all components required
+
+First ensure you have all components detailed in the [Bill Of Material](5_DoFs_trunk_BOM.md).
+Also as a friendly reminder, do not forget to use threadlocker otherwise you will see your robot disassemble itself after just few weeks due to vibration.
+
+
+## 2- Build Sub-assemblies
 
 First you need to assemble several sub-assemblies which will be combined to create the 5 DoFs Multi-articulated trunk.
 
@@ -14,14 +20,14 @@ The following instructions will guide you in this assembling process:
 - **1.4- [Chest assembly](subassembly/chest_assembly_instructions.md)**
 
 
-## 2- Multi-articulated trunk assembly
+## 3- Multi-articulated trunk assembly
 
 
 - Preparation: 10 min
 - Assembly: 30-35 min
 
 
-### Requirements
+### 3.1- Requirements
 ![Chest Assembly](img/trunk_assembly.jpg)
 
 **Sub-assemblies**:
@@ -51,7 +57,7 @@ The following instructions will guide you in this assembling process:
 
 
 
-## Assembly instructions:
+## 3.2- Assembly instructions:
 
 - **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
 - **Step 2**: Click on the image below to display the video:
