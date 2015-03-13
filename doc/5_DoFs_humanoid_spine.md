@@ -14,8 +14,8 @@ First you need to assemble several sub-assemblies which will be combined to crea
 
 The following instructions will guide you in this assembling process:
 
-- **1.1- [Double MX64 assembly](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/en/double_MX64_assembly.md)**
-- **1.2- [Double MX28 assembly](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/en/double_MX28_assembly.md)**
+- **1.1- [Double MX64 assembly](//github.com/poppy-project/Robotis-library/blob/master/doc/en/double_MX64_assembly.md)**
+- **1.2- [Double MX28 assembly](//github.com/poppy-project/Robotis-library/blob/master/doc/en/double_MX28_assembly.md)**
 - **1.3- [Spine assembly](subassembly/spine_assembly_instructions.md)**
 - **1.4- [Chest assembly](subassembly/chest_assembly_instructions.md)**
 
@@ -59,6 +59,6 @@ The following instructions will guide you in this assembling process:
 
 ## 3.2- Assembly instructions:
 
-- **Step 1:** Ensure you have read [**this note**](//github.com/matthieu-lapeyre/Robotis-library/blob/master/doc/en/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
+- **Step 1:** Ensure you have read [**this note**](//github.com/poppy-project/Robotis-library/blob/master/doc/en/robotis_tricks.md) before continuing to avoid the classic (and critical) traps when using Robotis Dynamixel actuators.
 - **Step 2**: Click on the image below to display the video:
 [![Chest Assembly](http://img.youtube.com/vi/LEHLdoBEr4Q/0.jpg)](http://youtu.be/LEHLdoBEr4Q)
