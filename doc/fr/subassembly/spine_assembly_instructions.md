@@ -4,7 +4,7 @@
 - Assemblage : 10 min
 
 ## Exigences :
-![Assemblage de la colonne vertébrale](../img/spine_assembly_instructions.jpg)
+![Assemblage de la colonne vertébrale](../../img/spine_assembly_instructions.jpg)
 
 **Parties imprimées en 3D**:
 - Colonne vertébrale

@@ -1,6 +1,6 @@
 # 5 DoFs Instructions d'assemblage du tronc multi-articulations
 
-![Tronc assemblé](img/trunk_assembled.jpg)
+![Tronc assemblé](../img/trunk_assembled.jpg)
 
 ## 1- Obtenir tous les composants requis
 
@@ -28,7 +28,7 @@ Les instructions suivantes vous guideront dans ce processus d'assemblage :
 
 
 ### 3.1- Exigences
-![Assemblage de la poitrine](img/trunk_assembly.jpg)
+![Assemblage de la poitrine](../img/trunk_assembly.jpg)
 
 **Sous ensembles **
 - Poitrine

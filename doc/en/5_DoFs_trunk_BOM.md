@@ -1,6 +1,6 @@
 ## Bill of Material:
 
-![Trunk BOM](img/trunk_BOM.jpg)
+![Trunk BOM](../img/trunk_BOM.jpg)
 
 **3D Printed**:
 - Chest

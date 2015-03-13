@@ -1,6 +1,6 @@
 ## Liste des matériels :
 
-![Liste des matériels](img/trunk_BOM.jpg)
+![Liste des matériels](../img/trunk_BOM.jpg)
 
 **Impressions 3D**:
 - Poitrine

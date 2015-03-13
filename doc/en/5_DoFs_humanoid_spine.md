@@ -1,6 +1,6 @@
 # 5 DoFs Multi-articulated Trunk assembly instructions
 
-![Trunk Assembled](img/trunk_assembled.jpg)
+![Trunk Assembled](../img/trunk_assembled.jpg)
 
 ## 1- Get all components required
 
@@ -28,7 +28,7 @@ The following instructions will guide you in this assembling process:
 
 
 ### 3.1- Requirements
-![Chest Assembly](img/trunk_assembly.jpg)
+![Chest Assembly](../img/trunk_assembly.jpg)
 
 **Sub-assemblies**:
 - Chest

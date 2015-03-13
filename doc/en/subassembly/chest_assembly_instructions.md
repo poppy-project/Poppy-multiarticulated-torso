@@ -4,7 +4,7 @@
 - Assembly: 30-45 min
 
 ## Requirement:
-![Chest Assembly](../img/chest_assembly_instructions.jpg)
+![Chest Assembly](../../img/chest_assembly_instructions.jpg)
 
 **3D Printed parts**:
 - Chest

@@ -4,7 +4,7 @@
 - Assemblage : 30-45 min
 
 ## Exogences :
-![Assemblage de la poitrine](../img/chest_assembly_instructions.jpg)
+![Assemblage de la poitrine](../../img/chest_assembly_instructions.jpg)
 
 **Partie imprimées en 3D **:
 - Poirtine
